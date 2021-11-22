@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+[class*="col-"] {
+    background-color: #006cfa;
+    color: #fff;
+    min-height: 50px;
+    text-align: center;
+    line-height: 50px;
+    border: 1px solid #fff;
+    padding: 5px;
+  }
+.green{
+    background-color: green;
+  }

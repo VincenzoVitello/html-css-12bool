@@ -13,5 +13,11 @@
     padding: 5px;
   }
 .green{
-    background-color: green;
+    background-color: #00e165;
+  }
+  .plus-height{
+    height: 100px;
+  }
+  .min-height{
+      height: 50px;
   }

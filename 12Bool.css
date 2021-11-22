@@ -11,19 +11,19 @@
     flex: 0 0 auto;
   }
   
-  .jsc-start {
+  .content-start {
     justify-content: flex-start;
   }
-  .jsc-center {
+  .content-center {
     justify-content: center;
   }
-  .jsc-end {
+  .content-end {
     justify-content: flex-end;
   }
-  .jsc-space-around {
+  .content-space-around {
   justify-content: space-around;
   }
-  .jsc-space-between {
+  .content-space-between {
   justify-content: space-between;
   }
   .align-top {
